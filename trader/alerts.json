@@ -1,0 +1,54 @@
+{
+  "rules": [
+    {
+      "id": "abnb-plan-stop",
+      "symbol": "ABNB",
+      "type": "stop",
+      "price": 182.53,
+      "note": "plan stop: opening-range midpoint",
+      "date": "2026-11-16"
+    },
+    {
+      "id": "abnb-plan-target",
+      "symbol": "ABNB",
+      "type": "target",
+      "price": 193.09,
+      "note": "plan target: 2R (two times the risk)",
+      "date": "2026-11-16"
+    },
+    {
+      "id": "abnb-flat-by",
+      "symbol": "ABNB",
+      "type": "time",
+      "at": "15:55",
+      "label": "flat by close",
+      "before_close": true,
+      "date": "2026-11-16"
+    },
+    {
+      "id": "cpb-plan-stop",
+      "symbol": "CPB",
+      "type": "stop",
+      "price": 23.34,
+      "note": "plan stop: opening-range midpoint",
+      "date": "2026-11-16"
+    },
+    {
+      "id": "cpb-plan-target",
+      "symbol": "CPB",
+      "type": "target",
+      "price": 24.16,
+      "note": "plan target: 1R (one times the risk)",
+      "date": "2026-11-16"
+    },
+    {
+      "id": "cpb-flat-by",
+      "symbol": "CPB",
+      "type": "time",
+      "at": "23:30",
+      "label": "flat by close",
+      "before_close": true,
+      "date": "2026-11-16"
+    }
+  ]
+}

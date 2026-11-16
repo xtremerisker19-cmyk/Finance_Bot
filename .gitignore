@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.DS_Store
+trader/state/
+trader/reports/
+trader/prices.json
+routines/
