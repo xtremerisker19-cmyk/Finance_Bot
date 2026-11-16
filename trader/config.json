@@ -21,5 +21,9 @@
   "allow_margin": false,
   "allow_short": false,
   "pdt_guard": false,
-  "sec_user_agent": ""
+  "sec_user_agent": "",
+  "min_profit_usd": 5.0,
+  "shariah_only": true,
+  "shariah_universe": "trader/shariah_universe.txt",
+  "min_picks": 3
 }

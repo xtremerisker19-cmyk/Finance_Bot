@@ -1,0 +1,14 @@
+{
+  "built": "2026-11-16T20:13Z",
+  "holdings_dates": {
+    "SPUS": "11/16/2026",
+    "SPTE": "11/16/2026"
+  },
+  "funds": [
+    "SPUS",
+    "SPTE"
+  ],
+  "count": 221,
+  "failed": [],
+  "method": "Holdings of SP Funds Shariah ETFs (S&P Shariah indices, AAOIFI-based screens), US-listed only"
+}
